@@ -1,0 +1,33 @@
+@media (min-width: 992px) {
+    
+   #navbarNav{
+       display: none !important;
+   } 
+
+ 
+
+}
+
+header h2{
+    margin: 15px;
+}
+
+header,h1{
+    text-align: center;
+}
+.row{
+
+text-align: center;
+
+}
+
+div div div div{
+    padding: 10px !important;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background: gray;
+
+}
+
+
+    
