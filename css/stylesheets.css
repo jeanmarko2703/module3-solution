@@ -8,7 +8,7 @@
 
 }
 
-#title{
+#content{
     margin-top: 60px;
 }
 
@@ -19,6 +19,7 @@ nav{
     overflow: hidden !important;
     position: fixed !important;
     width: 100% !important;
+    
 }
 header h2{
     margin: 15px;
