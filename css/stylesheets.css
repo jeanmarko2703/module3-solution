@@ -8,6 +8,13 @@
 
 }
 
+
+@media (min-width: 768px) and (max-width: 992px){
+    .navbar-toggler{
+    display: flex !important;
+}}
+
+
 #content{
     margin-top: 60px;
 }
@@ -34,7 +41,7 @@ text-align: center;
 
 }
 
-div div div div{
+div div div div div{
     padding: 10px !important;
     margin-bottom: 5px;
     margin-top: 5px;
